@@ -28,12 +28,8 @@ As we all know, Jobs increasing with respect to demand of industry Now, given th
  - AdaBoost regression model 
  
 ## Evaluation / Visualization
-![download (1)](https://user-images.githubusercontent.com/62024355/87877980-0ec73080-c9ff-11ea-85c1-59cf4756020b.png)
-![download (2)](https://user-images.githubusercontent.com/62024355/87877983-125ab780-c9ff-11ea-9edb-29394ededf92.png)
-![download](https://user-images.githubusercontent.com/62024355/87877984-12f34e00-c9ff-11ea-92e4-6755d7d7dd8f.png)
-
-
-Accuracy of the AdaBoost Regression Model on Training set is : 96.58% and on Test set is 78.62%
+![download (3)](https://user-images.githubusercontent.com/62024355/87880091-7a63ca80-ca0c-11ea-895c-bcbe0a69ff70.png)
+![download](https://user-images.githubusercontent.com/62024355/87880092-7c2d8e00-ca0c-11ea-9c36-f1b2758c3740.png)
 
 
 ## Team

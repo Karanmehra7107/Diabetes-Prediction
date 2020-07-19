@@ -1,5 +1,5 @@
 # Diabetes-Prediction
-![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![pandas](https://img.shields.io/badge/Library-Pandas-orange.svg) ![numpy](https://img.shields.io/badge/Library-Numpy-orange.svg)
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![pandas](https://img.shields.io/badge/Library-Pandas-orange.svg) ![numpy](https://img.shields.io/badge/Library-Numpy-orange.svg)
 
 - This repository contains CSV taken from Kaggle.
 

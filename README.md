@@ -4,12 +4,13 @@
 - This repository contains CSV taken from Kaggle.
 
 ## Problem Statement
-As we all know, Jobs increasing with respect to demand of industry Now, given the dataset of data scientist prediction dataset from kaggle, predict the salary and accuracy.
+As we all know, Diseases are increasing day by day Now, given the dataset of Diabete dataset from kaggle, predict if disease diabeties!.
+[dataset](https://www.kaggle.com/johndasilva/diabetes)
 
 ## Directory Tree 
 ```
 
-├── Data Scientist's Salary Prediction.ipynb
+├── Diabetes Predictor.ipynb
 └── Readme.md
 ```
 
@@ -21,11 +22,7 @@ As we all know, Jobs increasing with respect to demand of industry Now, given th
 - Feature scaling
 - Model Buliding
 
-## Algorithm Used
- - Linear regression
- - Decision tree regression
- - Random forest regression
- - AdaBoost regression model 
+
  
 ## Evaluation / Visualization
 ![download (3)](https://user-images.githubusercontent.com/62024355/87880091-7a63ca80-ca0c-11ea-895c-bcbe0a69ff70.png)
